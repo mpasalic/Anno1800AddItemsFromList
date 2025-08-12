@@ -3,7 +3,7 @@
         <Item>
             <KeyTypes>Shift;P</KeyTypes>
             <Command>getAllItems()</Command>
-            <Active>Menu;Session;WorldMap;VideoCameraSequence;TextInput;PostcardView;Pause</Active>
+            <Active>Menu;Session;WorldMap;VideoCameraSequence;PostcardView;Pause</Active>
             <AvailableOnPlatforms>PC;Xbox;PS;Stadia</AvailableOnPlatforms>
             <Text>10395</Text>
             <AudioEvent>200634</AudioEvent>
